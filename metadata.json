@@ -1,0 +1,7 @@
+{
+  "name": "Pick’n Prints - 3D Customizer",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "description": "Premium 3D apparel customizer with real-time rendering, AR try-on, and AI-powered design tools."
+}
